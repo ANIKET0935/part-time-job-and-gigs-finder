@@ -53,20 +53,20 @@ Employers can post jobs, and employees can search, filter, and apply for relevan
 
 ### 🔑 Login Page
 <p align="center">
-  <img src="assets/screenshots/login.png" alt="Login Page" width="80%">
+  <img src="assets/screenshots/login.png.png" alt="Login Page" width="80%">
 </p>
 
 ### 📝 Register Page
 <p align="center">
-  <img src="assets/screenshots/register.png" alt="Register Page" width="80%">
+  <img src="assets/screenshots/register.png.png" alt="Register Page" width="80%">
 </p>
 
 ### 📂 Dashboard
 <p align="center">
-  <img src="assets/screenshots/dashboard.png" alt="Dashboard" width="80%">
+  <img src="assets/screenshots/dashboard.png.png" alt="Dashboard" width="80%">
 </p>
 
 ### 💼 Job Listings
 <p align="center">
-  <img src="assets/screenshots/joblist.png" alt="Job Listings" width="80%">
+  <img src="assets/screenshots/joblist.png.png" alt="Job Listings" width="80%">
 </p>
